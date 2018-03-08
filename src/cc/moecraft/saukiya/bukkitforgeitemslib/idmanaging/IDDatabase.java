@@ -17,7 +17,7 @@ public class IDDatabase extends Database
         super(Main.getInstance(), "ID_Database", "bfildb");
     }
 
-    public void readOrAddItem()
+    public void findOrAddItem()
     {
 
     }
