@@ -13,6 +13,15 @@ public class Main extends JavaPlugin
     @Override
     public void onEnable()
     {
+        instance = this;
+
+        // 模板
+        throw new UnsupportedOperationException();
+    }
+
+    @Override
+    public void onLoad()
+    {
         // 模板
         throw new UnsupportedOperationException();
     }
@@ -24,10 +33,10 @@ public class Main extends JavaPlugin
         throw new UnsupportedOperationException();
     }
 
-    @Override
-    public void onLoad()
+    public static Main instance;
+
+    public static Main getInstance()
     {
-        // 模板
-        throw new UnsupportedOperationException();
+        return instance;
     }
 }
