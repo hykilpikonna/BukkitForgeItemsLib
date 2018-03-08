@@ -1,4 +1,4 @@
-package cc.moecraft.saukiya.bukkitforgeitemslib.api;
+package cc.moecraft.saukiya.bukkitforgeitemslib.utils;
 
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;

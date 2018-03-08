@@ -1,4 +1,4 @@
-package cc.moecraft.saukiya.bukkitforgeitemslib.api;
+package cc.moecraft.saukiya.bukkitforgeitemslib.utils;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

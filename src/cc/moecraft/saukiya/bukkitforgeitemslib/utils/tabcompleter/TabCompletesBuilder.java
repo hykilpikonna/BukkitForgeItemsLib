@@ -1,4 +1,4 @@
-package cc.moecraft.saukiya.bukkitforgeitemslib.api.tabcompleter;
+package cc.moecraft.saukiya.bukkitforgeitemslib.utils.tabcompleter;
 
 import java.util.ArrayList;
 

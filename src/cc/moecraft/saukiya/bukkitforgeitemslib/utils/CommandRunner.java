@@ -1,4 +1,4 @@
-package cc.moecraft.saukiya.bukkitforgeitemslib.api;
+package cc.moecraft.saukiya.bukkitforgeitemslib.utils;
 
 import cc.moecraft.hykilpikonna.ult.api.tabcompleter.TabCompletes;
 import cc.moecraft.hykilpikonna.ult.utils.ArrayUtils;
