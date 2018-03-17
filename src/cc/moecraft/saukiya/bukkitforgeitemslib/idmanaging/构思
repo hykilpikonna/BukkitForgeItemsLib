@@ -13,6 +13,12 @@
 
 数据库例子:
 BFIL_IDs:
-- 1: 0.0006402048655569782
+  2000:
+    Type: ITEM
+    DurIndex: 1
+  2001:
+    Type: BOW
+    DurIndex: 1
 Names:
-- moreweapons.gun: 1
+  moreweapons.gun: 2000
+  moreweapons.bow: 2001
